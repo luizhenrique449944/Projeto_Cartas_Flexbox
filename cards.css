@@ -1,0 +1,66 @@
+@charset "UTF-8";
+
+h1 {
+    font-family: Inter;
+    font-size: 23px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 31px;
+    letter-spacing: 0em;
+    text-align: center;  
+    color: #222222; 
+    height: 30.72px;
+    left: 557px;
+    top: 71px;
+}
+.container_pai {
+    flex-direction: row;
+    display: flex;
+    justify-content: center;
+    max-width: 710px;
+    position: relative;
+    left: 900px;
+}
+.cards {
+    width: 238px;
+    height: 283px;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid gray;
+    text-align: center;
+    margin-right: 14px;
+}
+.preco {
+    height: 58px;
+    background-color: #ECF1F4;
+    position: relative;
+    top: 125px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.preco_6 {
+    height: 60px;
+    background-color: #ECF1F4;
+    position: relative;
+    top: 107px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+img {
+    position: relative;
+    top: 70px;
+    height: 20px;
+}
+.paragrafo {
+    font-family: Poppins;
+    position: relative;
+    top: 70px;
+    font-weight: 500px;
+    font-size: 14px;
+    font-style: normal;
+}
+
+
+
